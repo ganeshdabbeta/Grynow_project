@@ -10,6 +10,7 @@ https://firebase.google.com/docs/auth/android/phone-auth
 ![529f55_434630309fb14990be2fd3bf17e29042_mv2](https://user-images.githubusercontent.com/88226828/187062126-d3672146-9462-4064-b036-cb7a3943bda5.png)
 Now come back to Android Studio and white the code for MainActivity. The code snippet for MainActivity.class is in main folder.
 Also, the code snippet for HomeActivity.class is given below, which is our landing page when the authentication is successful. 
+https://github.com/ganeshdabbeta/Grynow_project/blob/main/grynow_project/HomeActivity.java
 
 The Login UI looks like ..
 
