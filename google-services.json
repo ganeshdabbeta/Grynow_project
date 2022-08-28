@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "546553075806",
+    "project_id": "grynow-project",
+    "storage_bucket": "grynow-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546553075806:android:e89ccb589b4f9021113ccf",
+        "android_client_info": {
+          "package_name": "com.Lovely.Grynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546553075806-i7k7s7c5ckjbelktu85r5lj66ifdbpb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Lovely.Grynow",
+            "certificate_hash": "0345dab1c9d75dc30a87b29d040cfe2e722232d3"
+          }
+        },
+        {
+          "client_id": "546553075806-rhbn7ff35r99vdns1t0a1gihvmv9896j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt965reayCdLbfQEnHibOUd7pka7U07pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546553075806-rhbn7ff35r99vdns1t0a1gihvmv9896j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546553075806:android:bd2f9b4f47db083d113ccf",
+        "android_client_info": {
+          "package_name": "com.example.grynow_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546553075806-rhbn7ff35r99vdns1t0a1gihvmv9896j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt965reayCdLbfQEnHibOUd7pka7U07pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546553075806-rhbn7ff35r99vdns1t0a1gihvmv9896j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546553075806:android:d98f8342a81b2d99113ccf",
+        "android_client_info": {
+          "package_name": "com.example.grynowproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546553075806-rhbn7ff35r99vdns1t0a1gihvmv9896j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt965reayCdLbfQEnHibOUd7pka7U07pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546553075806-rhbn7ff35r99vdns1t0a1gihvmv9896j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
