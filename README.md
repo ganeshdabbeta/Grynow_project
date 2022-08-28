@@ -27,3 +27,9 @@ The Login UI looks like ..
 The code snippet for activity_home.xml is main folder.
 https://github.com/ganeshdabbeta/Grynow_project/blob/main/layout/activity_home.xml
 
+
+![Screenshot (120)](https://user-images.githubusercontent.com/88226828/187062699-637ae8ff-41f2-45ff-bfa2-f5519d2a36e9.png)
+
+That's it, folks. Please run the project..
+
+
