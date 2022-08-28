@@ -2,6 +2,8 @@
 Login Page With Phone authentication
 
 Phone Authentication is one of the most common methods for login in most Apps and websites. In this blog, I am going to show you how to add Phone Authentication using Firebase in Android Studio. 
+Firebase console link:-https://console.firebase.google.com/u/0/project/grynow-project/overview
+
 
 We will build two activities MainActivity.class and HomeActivity.class. But first, we need to set some of the dependencies to fetch the required services and authentication libraries.
 https://github.com/ganeshdabbeta/Grynow_project/blob/main/grynow_project/MainActivity.java
